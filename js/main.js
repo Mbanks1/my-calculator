@@ -14,11 +14,10 @@ multiplyBtn.addEventListener('click', multiply)
 
 
 
-
-
 function subtract() {
 
 output.innerText = parseInt(inputOne.value) - parseInt(inputTwo.value)
+
 
 }
 
